@@ -1,0 +1,289 @@
+{
+    "jokes": [
+    {
+        "id": "0",
+        "question": "Quelle est la femelle du hamster ?",
+        "answer": "L'Amsterdam"
+    },
+    {
+        "id": "1",
+        "question": "Quel est l'animal le plus heureux ?",
+        "answer": "Le hibou, parce que sa femme est chouette"
+    },
+    {
+        "id": "2",
+        "question": "Quel est le comble pour un marin ?",
+        "answer": "Avoir le nez qui coule !"
+    },
+    {
+        "id": "3",
+        "question": "C'est l'histoire d'une blague vaseuse",
+        "answer": "Mets tes bottes"
+    },
+    {
+        "id": "4",
+        "question": "C'est l'histoire d'un pingouin qui respire par les fesses",
+        "answer": "Un jour il s’assoit et il meurt"
+    },
+    {
+        "id": "5",
+        "question": "Comment s'appelle le cul de la Schtroumpfette ?",
+        "answer": "Le blu-ray"
+    },
+    {
+        "id": "6",
+        "question": "Pourquoi la feuille coule t-elle ?",
+        "answer": "Car elle n'a papier !"
+    },
+    {
+        "id": "7",
+        "question": "Pourquoi les canards sont toujours à l'heure ?",
+        "answer": "Parce qu’ils sont dans l’étang"
+    },
+    {
+        "id": "8",
+        "question": "Que fait un crocodile quand il rencontre une superbe femelle ?",
+        "answer": "Il l'acoste"
+    },
+    {
+        "id": "9",
+        "question": "C'est quoi un petit pois avec une épée face à une carotte avec une épée ?",
+        "answer": "Un bon duel"
+    },
+    {
+        "id": "10",
+        "question": "C'est quoi une chauve souris avec une perruque ? ",
+        "answer": "Une souris"
+    },
+    {
+        "id": "11",
+        "question": "Qu'est ce qui n'est pas un steak ?",
+        "answer": "Une pastèque"
+    },
+    {
+        "id": "12",
+        "question": "Qui est loin d'aller en Enfer ?",
+        "answer": "Vanessa Paradis"
+    },
+    {
+        "id": "13",
+        "question": "Que fait une vache les yeux fermés ?",
+        "answer": "Du lait concentré !"
+    },
+    {
+        "id": "14",
+        "question": "Qu'est-ce qui fait toin toin ?",
+        "answer": "Un tanard"
+    },
+    {
+        "id": "15",
+        "question": "Comment appelle-t-on un chien qui n'a pas de pattes ?",
+        "answer": "On ne l’appelle pas, on va le chercher…"
+    },
+    {
+        "id": "16",
+        "question": "C'est quoi le plus dur à mixer dans les légumes ?",
+        "answer": "La baignoire"
+    },
+    {
+        "id": "17",
+        "question": "Qu'est-ce qui est vert, qui tourne très très vite et qui devient rouge ?",
+        "answer": "Une grenouille dans un mixeur"
+    },
+    {
+        "id": "18",
+        "question": "C'est un mec qui entre dans un bar et qui dit \"Salut c'est moi !\"",
+        "answer": "Mais en fait c’était pas lui"
+    },
+    {
+        "id": "19",
+        "question": "Avec quoi ramasse-t-on la papaye ?",
+        "answer": "Avec une foufourche !"
+    },
+    {
+        "id": "20",
+        "question": "Qu'est-ce qui est vert et qui pousse dans le jardin ?",
+        "answer": "Un extraterrestre qui coule un bronze"
+    },
+    {
+        "id": "21",
+        "question": "Tu connais l'histoire de la chaise ?",
+        "answer": "Elle est pliante"
+    },
+    {
+        "id": "22",
+        "question": "Qu'est-ce qu'un canif ?",
+        "answer": "Un petit fien"
+    },
+    {
+        "id": "23",
+        "question": "Pourquoi n'y a-t-il plus de mammouths sur terre ?",
+        "answer": "Parce qu’il n’y a plus de pappouths"
+    },
+    {
+        "id": "24",
+        "question": "Un jour Dieu a dit a casto de ramer",
+        "answer": "Et depuis Castorama"
+    },
+    {
+        "id": "25",
+        "question": "Tu savais que la \"ouate\" vient des phoques ?",
+        "answer": "\" Ouate de Phoques !\""
+    },
+    {
+        "id": "26",
+        "question": "Pourquoi il n'y a pas de ballon à question pour un champion ?",
+        "answer": "Parceque Julien Lepers"
+    },
+    {
+        "id": "27",
+        "question": "Quel super héros donne le plus vite l'heure ?",
+        "answer": "Speed Heure Man !"
+    },
+    {
+        "id": "28",
+        "question": "Le viagra c'est comme l'enfer,",
+        "answer": "Satan l'habite"
+    },
+    {
+        "id": "29",
+        "question": "Comment appelle t'on les parents de l'homme invisible ?",
+        "answer": "Les transparents"
+    },
+    {
+        "id": "30",
+        "question": "Comment dorment les anorexiques ? ",
+        "answer": "Côte à côte"
+    },
+    {
+        "id": "31",
+        "question": "Quel est le plus grand festival de vieux ?",
+        "answer": "Le festival de Cannes"
+    },
+    {
+        "id": "32",
+        "question": "Comment appelle-t-on un roux dans un four ?",
+        "answer": "Un Rôuti"
+    },
+    {
+        "id": "33",
+        "question": "Pourquoi c'est difficile d'être bon ?",
+        "answer": "Parceque être procédure !"
+    },
+    {
+        "id": "34",
+        "question": "Ce n’est pas l’habit qui fait le chinois",
+        "answer": "Mais le chinois qui fait l’habit"
+    },
+	{
+        "id": "35",
+        "question": "Pourquoi être bon c'est difficile ?",
+        "answer": "Parceque être procédure ! (®HydroSnow)"
+    },
+	{
+        "id": "36",
+        "question": "Pourquoi un chasseur emmène-t-il son fusil aux toilettes ?",
+        "answer": "Pour tirer la chasse"
+    },
+	{
+        "id": "37",
+        "question": "Tu connais l'histoire du castré décapité ?",
+        "answer": "C'est une histoire sans queue ni tête !"
+    },
+	{
+        "id": "38",
+        "question": "Que fait un chinois sur un scooter ?",
+        "answer": "Neeeeeeemmm Neeeeeeemmm Neeeeeeemmm !"
+    },
+	{
+        "id": "39",
+        "question": "Que fait-on des voleurs de salade ?",
+        "answer": "On les tue ?"
+    },
+	{
+        "id": "40",
+        "question": "Pourquoi le lapin est bleu ?",
+        "answer": "Parcequ'on l'a peint..."
+    },
+	{
+        "id": "41",
+        "question": "Pourquoi les oiseaux volent-ils vers le sud ?",
+        "answer": "A pied c'est beaucoup trop long..."
+    },
+	{
+        "id": "42",
+        "question": "Où se cache Mozart ?",
+        "answer": "Dans le frigo….Car Mozzarella"
+    },
+	{
+        "id": "43",
+        "question": "Pourquoi Gilbert Montagné se balance-t-il lorsqu’il chante ?",
+        "answer": "Pour être sûr de passer au moins une fois devant le micro."
+    },
+	{
+        "id": "44",
+        "question": "Un portugais ne chuchote pas",
+        "answer": "Il murmure"
+    },
+	{
+        "id": "45",
+        "question": "Pourquoi Harry Potter chuchotte ?",
+        "answer": "Parce que Dumbledore…"
+    },
+	{
+        "id": "46",
+        "question": "Comment sort-on de la mer Rouge ?",
+        "answer": "Mouillé !"
+    },
+	{
+        "id": "47",
+        "question": "Qu’est-ce qu’un rat avec la queue coupée ?",
+        "answer": "Un rat-courci"
+    },
+	{
+        "id": "48",
+        "question": "Tu as déjà vu une tomate chanter ?",
+        "answer": "Non, mais j’ai déjà vu une carotte rapper !"
+    },
+	{
+        "id": "49",
+        "question": "Qu’est-ce qui court et qui se jette ?",
+        "answer": "Une courgette"
+    },
+	{
+        "id": "50",
+        "question": "Qu’est-ce qu’un lampadaire ?",
+        "answer": "Une lampe avec une seule bosse"
+    },
+	{
+        "id": "51",
+        "question": "C’est un panda qui en avait marre de la vie",
+        "answer": "Et un jour, il se panda…"
+    },
+	{
+        "id": "52",
+        "question": "La vitamine C…",
+        "answer": "mais elle ne dira rien."
+    },
+	{
+        "id": "53",
+        "question": "Qu’est-ce qu’un chameau à trois bosses ?",
+        "answer": "Un chameau qui s’est cogné…"
+    },
+	{
+        "id": "54",
+        "question": "Pourquoi les policiers n’ont pas d’acné ?",
+        "answer": "Car ils ont la peau lisse !"
+    },
+	{
+        "id": "55",
+        "question": "Qu’est-ce qu’une duche ?",
+        "answer": "C’est une douche sans O"
+    },
+	{
+        "id": "56",
+        "question": "Quelle est la différence entre un rappeur et un campeur ?",
+        "answer": "Le rappeur niq** ta mère et le campeur monte ta tente"
+    }
+]
+}

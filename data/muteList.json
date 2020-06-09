@@ -1,3 +1,10 @@
 {
-  "muteList": []
+  "muteList": [
+    {
+      "id": 131930102224125950,
+      "timeFinished": 0,
+      "guild": "7177311",
+      "reason": "reasonMute"
+    }
+  ]
 }

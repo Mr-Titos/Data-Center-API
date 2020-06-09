@@ -50,6 +50,7 @@ function processRequest(req, res, indexMethod, indexFile, paramRequest) {
     return new Promise((resolve, reject) => {
         let methodName = req.rawHeaders[indexMethod + 1];
         let fileName = req.rawHeaders[indexFile + 1];
+        let testPost = "";
         if (req.method === 'POST') { // Method POST
             switch (methodName) {
                 case 'save':
@@ -63,10 +64,13 @@ function processRequest(req, res, indexMethod, indexFile, paramRequest) {
                     });
                 case 'mute':
                     req.on('data', (chunk) => {
+                        testPost = chunk.toString();
                         reqBody.push(chunk);
                     }).on('end', () => {
-                        addToMuteList(fileName, Buffer.concat(reqBody).toString()).then(updatedArr => {
+                        //console.log(reqBody.toString());
+                        addToMuteList(fileName, testPost).then(updatedArr => {
                             reqBody = [];
+                            testPost = "";
                             resolve(responseJson(updatedArr, methodName, fileName, null));
                         })
                     });
